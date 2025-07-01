@@ -1,16 +1,10 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# vs-theme-creator!
->>>>>>> a038b4abbbac232d7fcaee9370d5d654b8080b07
+VS Code Theme Creator
+A modern web app to design, preview, and export your own custom Visual Studio Code themes—no coding required!
+✨ Features
+Live Theme Customization: Instantly adjust background, foreground, accent, sidebar, status bar, and syntax colors.
+Real-Time Code Preview: See your theme applied to code with live syntax highlighting.
+Preset Themes: Start from popular color schemes like Dark+, Monokai, Light+, and Obsidian-inspired.
+Save & Load Themes: Securely save your custom themes to the cloud (Firebase) and reload them anytime.
+Export to VS Code: Download your theme as a ready-to-use .json file for Visual Studio Code.
+Import Existing Themes: Load and edit any VS Code theme JSON file.
+User Authentication: Anonymous sign-in for saving and managing your themes.
