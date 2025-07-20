@@ -1,4 +1,4 @@
-# VS Code Theme Creator
+# VS Code Theme Creator!
 
 A modern web app to design, preview, and export your own custom Visual Studio Code themes no coding required
 
