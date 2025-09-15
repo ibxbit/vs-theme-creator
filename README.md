@@ -4,7 +4,7 @@ A modern web app to design, preview, and export your own custom Visual Studio Co
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - **Live Theme Customization:** Instantly adjust background, foreground, accent, sidebar, status bar, and syntax colors.
 - **Real-Time Code Preview:** See your theme applied to code with live syntax highlighting.
