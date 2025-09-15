@@ -16,7 +16,7 @@ A modern web app to design, preview, and export your own custom Visual Studio Co
    
 ---   
        
-## 🚀 Getting Started    
+## 🚀 Getting Started 
    
 1. **Clone the repository:**   
    ```sh 
