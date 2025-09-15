@@ -14,7 +14,7 @@ A modern web app to design, preview, and export your own custom Visual Studio Co
 - **Import Existing Themes:** Load and edit any VS Code theme JSON file.
 - **User Authentication:** Anonymous sign-in for saving and managing your themes.
    
---- 
+---  
       
 ## 🚀 Getting Started   
  
