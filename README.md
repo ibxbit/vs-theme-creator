@@ -22,7 +22,7 @@ A modern web app to design, preview, and export your own custom Visual Studio Co
    ```sh 
    git clone https://github.com/ibxbit/vs-theme-creator.git
    cd vs-theme-creator  
-   ```
+   ``` 
   
 2. **Install dependencies:**
    ```sh
