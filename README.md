@@ -13,7 +13,7 @@ A modern web app to design, preview, and export your own custom Visual Studio Co
 - **Export to VS Code:** Download your theme as a ready-to-use `.json` file for Visual Studio Code.
 - **Import Existing Themes:** Load and edit any VS Code theme JSON file.
 - **User Authentication:** Anonymous sign-in for saving and managing your themes.
- 
+   
 --- 
 
 ## 🚀 Getting Started 
