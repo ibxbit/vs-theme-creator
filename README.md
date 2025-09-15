@@ -15,7 +15,7 @@ A modern web app to design, preview, and export your own custom Visual Studio Co
 - **User Authentication:** Anonymous sign-in for saving and managing your themes.
    
 ---   
-      
+       
 ## 🚀 Getting Started    
    
 1. **Clone the repository:**   
