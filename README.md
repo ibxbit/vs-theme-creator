@@ -20,7 +20,7 @@ A modern web app to design, preview, and export your own custom Visual Studio Co
    
 1. **Clone the repository:**   
    ```sh 
-   git clone https://github.com/ibxbit/vs-theme-creator.git
+   git clone https://github.com/ibxbit/vs-theme-creator.git 
    cd vs-theme-creator  
    ``` 
    
